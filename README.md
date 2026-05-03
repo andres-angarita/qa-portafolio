@@ -2,7 +2,7 @@
 
 Automated test suite for [Saucedemo](https://www.saucedemo.com), a demo e-commerce app designed for QA practice. Built with Playwright and Node.js following the Page Object Model pattern.
 
-![CI](https://github.com/andres-angarita/qa-portafolio/actions/workflows/playwright.yml/badge.svg)
+![CI](https://github.com/andres-angarita/qa-portafolio/actions/workflows/playwright.yaml/badge.svg)
 
 ---
 
